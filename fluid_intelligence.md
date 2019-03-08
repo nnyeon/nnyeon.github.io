@@ -1,5 +1,5 @@
 ---
-title: Fluid intelligence
+title: Fluid Intelligence
 layout: collection
 permalink: /fluid intelligence/
 collection: fluid intelligence
