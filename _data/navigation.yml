@@ -2,14 +2,14 @@
 
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
+- title: Posts
+  url: /posts/
+- title: Business
+  url: /business/
+- title: Creative
+  url: /creative/
+- title: Fluid Intelligence
+  url: /fluid-intelligence/
 # - title: Search
 #   url: /search/
 # - title: External Page
