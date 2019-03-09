@@ -1,5 +1,5 @@
 ---
-Collection: Business
+Collection: business
 entries_layout: grid
 show_excerpts: true 
 sort_by: date 
