@@ -75,6 +75,23 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+collections:
+    business:
+        output: true    
+        permalink: /:collection/:path/
+
+    creative:
+        output: true    
+        permalink: /:collection/:path/
+
+    analytical:
+        output: true    
+        permalink: /:collection/:path/
+
+    fluid-intelligence:
+        output: true    
+        permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -85,6 +102,7 @@ defaults:
       layout: post
       share: true
 
+          
 # Site Author
 author:
   name: "Nayeon Kim"
