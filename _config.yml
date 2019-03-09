@@ -102,7 +102,15 @@ defaults:
       layout: post
       share: true
 
-          
+   # Business defaults
+  - scope:
+      path: "_business"
+      type: posts
+    values:
+      layout: post
+      share: true
+
+       
 # Site Author
 author:
   name: "Nayeon Kim"
