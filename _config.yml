@@ -16,8 +16,8 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Business, Creative, Fluid Intelligence"
-description: "Life of a self-claimed multipotentialite"
+title: "The Curious Life of a Earth Rover"
+description: "Self-claimed multipotentialite journaling about business, creative, fluid intelligence"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
