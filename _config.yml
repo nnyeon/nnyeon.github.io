@@ -87,8 +87,8 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
+  name: "Nayeon Kim"
+  picture: /images/profile_sites.jpg
   email:
   twitter:
   links:
