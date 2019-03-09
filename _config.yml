@@ -110,7 +110,31 @@ defaults:
       layout: post
       share: true
 
-       
+    # Creative defaults
+  - scope:
+      path: "_creative"
+      type: posts
+    values:
+      layout: post
+      share: true
+
+     # Analytical defaults
+  - scope:
+      path: "_analytical"
+      type: posts
+    values:
+      layout: post
+      share: true
+
+      # Fluid Intelligence defaults
+  - scope:
+      path: "_fluid-intelligence"
+      type: posts
+    values:
+      layout: post
+      share: true
+
+   
 # Site Author
 author:
   name: "Nayeon Kim"
