@@ -16,9 +16,9 @@ sort_order: forward
 - 기업 홈페이지
 - 상장법인 IR자료: 한국거래소 전자공시 홈페이지 kind.krx.co.kr
 - 공익법인 공시서류: 홈택스 공익법인공시 시스템
-- 국가기관 공시 자료
 - 금융감독원전자공시시스템(DART), EDGAR
-- 통계청
+- 통계청 및 국가통계포털 KOSIS
+- 알리오(공공기관 경영정보 공개시스템)
 - KOTRA, 한국무역협회
 - 법제처
 - Worldbank, CIA worldfactbook
